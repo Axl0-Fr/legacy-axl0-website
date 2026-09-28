@@ -1,0 +1,8 @@
+# robots.txt — https://legacy.axl0.fr
+# Legacy version of the portfolio, hosted on Netlify.
+# Commit this to the root of the legacy repo and Netlify will serve it.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.axl0.fr/sitemap.xml
